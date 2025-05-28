@@ -1,0 +1,62 @@
+<annotation>
+	<folder>last+</folder>
+	<filename>R02_A14_05_x71604_y31212.png</filename>
+	<path>C:\Users\dzw_unicorn\Desktop\last+\last+\R02_A14_05_x71604_y31212.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2040</width>
+		<height>2040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>991</xmin>
+			<ymin>1628</ymin>
+			<xmax>1081</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1246</xmin>
+			<ymin>1740</ymin>
+			<xmax>1336</xmax>
+			<ymax>1830</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1644</xmin>
+			<ymin>1812</ymin>
+			<xmax>1734</xmax>
+			<ymax>1902</ymax>
+		</bndbox>
+	</object>
+<object>
+		<name>green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1190</xmin>
+			<ymin>1883</ymin>
+			<xmax>1280</xmax>
+			<ymax>1973</ymax>
+		</bndbox>
+	</object>
+</annotation>
